@@ -1,4 +1,4 @@
-// !no son mantenibles respecto a los tipos
+// ! no son mantenibles respecto a los tipos
 // function getValue(value: number|string){
 //   return value;
 // }
